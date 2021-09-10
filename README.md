@@ -1,4 +1,4 @@
-# Welcome to my Discounted free cash flow (DFCF) project!
+# Welcome to my Discounted Free Cash Flow (DFCF) project!
 In this project I will create an Excel VBA template to evaluate publicly traded companies based on their financial data.
 The project will explore both evaluation methods and Excel VBA coding. More specifically the following:
   - How to calculate the discount rate
