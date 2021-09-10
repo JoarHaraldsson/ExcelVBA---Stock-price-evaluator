@@ -13,6 +13,7 @@ Everything related to finance in this project is take from the book Corporate Fi
 ### The financial part (skip if you only want to see the VBA code)
 ## Discounted Value
 The idea of the Discounted Free Cash Flow model is that if we know how much money a company will generate in the future, then we can calculate the company's present value by accounting for the cost of capital (e.g. inflation among other things). Imagine that you give out a loan of $100 today, and in one year from now the loan taker will pay you $110. Then you might wonder, what is **today's value** of that investment? That can be achieved by _discounting_ the **future value** based on the **cost of capital** according to this function:
+
 Today's value = future value / (1 + r<sub>wacc</sub>) = $110 / (1 + 0,02) = $107.8
 
 r<sub>wacc</sub> is the _Weighted average cost of capital_ and in this example I assumed that the cost of capital was 2% (approximately the rate of inflation). 
