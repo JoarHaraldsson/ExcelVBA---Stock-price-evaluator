@@ -1,8 +1,9 @@
 ## Welcome to my Discounted free cash flow (DFCF) project!
 In this project I will create an Excel VBA template to evaluate publicly traded companies based on their financial data.
 The project will explore both evaluation methods and Excel VBA coding. More specifically the following:
-  - Discounted free cash flow as an evaluation method
   - How to calculate the discount rate
+  - How to calculate Weighted Average Cost of Capital (WACC)
+  - Discounted free cash flow as an evaluation method
   - Preprocessing data with Excel VBA
   - Creating graphical presentations of data with Excel VBA
 
