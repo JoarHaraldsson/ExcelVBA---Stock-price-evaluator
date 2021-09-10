@@ -9,9 +9,8 @@ The project will explore both evaluation methods and Excel VBA coding. More spec
 Everything related to finance in this project is take from the book Corporate Finance (Fifth edition) written by Jonathan Berk and Peter DeMarzo.
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Discounted Free Cash Flow Model
+The thought is that if we know how much money a company will generate in the future, then we can calculate its present value by accounting for the cost of capital (e.g. inflation among other things). 
 
 ```markdown
 Syntax highlighted code block
@@ -30,12 +29,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoarHaraldsson/ExcelVBA---Stock-price-evaluator/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
