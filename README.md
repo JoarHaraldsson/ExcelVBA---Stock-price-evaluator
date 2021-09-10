@@ -5,12 +5,9 @@ The project will explore both evaluation methods and Excel VBA coding. More spec
   - How to calculate the discount rate
   - Preprocessing data with Excel VBA
   - Creating graphical presentations of data with Excel VBA
+
 Everything related to finance in this project is take from the book Corporate Finance (Fifth edition) written by Jonathan Berk and Peter DeMarzo.
 
-
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
