@@ -1,6 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my Discounted free cash flow (DFCF) project!
+In this project I will create an Excel VBA template to evaluate publicly traded companies based on their financial data.
+The project will explore both evaluation methods and Excel VBA coding. More specifically the following:
+  - Discounted free cash flow as an evaluation method
+  - How to calculate the discount rate
+  - Preprocessing data with Excel VBA
+  - Creating graphical presentations of data with Excel VBA
+Everything related to finance in this project is take from the book Corporate Finance (Fifth edition) written by Jonathan Berk and Peter DeMarzo.
 
-You can use the [editor on GitHub](https://github.com/JoarHaraldsson/ExcelVBA---Stock-price-evaluator/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
